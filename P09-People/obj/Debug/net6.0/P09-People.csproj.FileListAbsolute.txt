@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/bin/Debug/net6.0/P09-People
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/bin/Debug/net6.0/P09-People.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/bin/Debug/net6.0/P09-People.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/bin/Debug/net6.0/P09-People.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/bin/Debug/net6.0/P09-People.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/refint/P09-People.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/P09-People.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P09-People/obj/Debug/net6.0/ref/P09-People.dll

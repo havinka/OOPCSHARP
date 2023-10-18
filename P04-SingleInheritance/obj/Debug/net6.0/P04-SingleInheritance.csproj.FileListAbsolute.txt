@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/bin/Debug/net6.0/P04-SingleInheritance
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/bin/Debug/net6.0/P04-SingleInheritance.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/bin/Debug/net6.0/P04-SingleInheritance.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/bin/Debug/net6.0/P04-SingleInheritance.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/bin/Debug/net6.0/P04-SingleInheritance.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/refint/P04-SingleInheritance.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/P04-SingleInheritance.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P04-SingleInheritance/obj/Debug/net6.0/ref/P04-SingleInheritance.dll

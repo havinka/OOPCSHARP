@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{B1227567-7ED0-4D84-8083-39AF586930C4}|Default">
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>P10-Zoo/P10-Zoo.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.P12-Animal FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P02-Box PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P13-Figures PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P14-AnimalTrainer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P04-SingleInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P07-Shapes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P17-FarmForAnimals FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P16-FarmForAnimals/Program.cs">
+    <Files>
+      <File FileName="P16-FarmForAnimals/Program.cs" Line="62" Column="110" />
+      <File FileName="P16-FarmForAnimals/Animal.cs" Line="18" Column="1" />
+      <File FileName="P16-FarmForAnimals/Food.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Vegetable.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Meat.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Mammal.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Mouse.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Felime.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Zebra.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Cat.cs" Line="2" Column="14" />
+      <File FileName="P16-FarmForAnimals/Tiger.cs" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S01-Class" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.P01-Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.P03-Nasledqvane FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P05-MyList FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P09-People PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P11-MathOperation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P08-Cars FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P15-Vehicles PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P06-ReusingClasses FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.P16-Vehicles2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

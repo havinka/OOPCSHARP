@@ -1,0 +1,15 @@
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/bin/Debug/net6.0/P02-Box
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/bin/Debug/net6.0/P02-Box.deps.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/bin/Debug/net6.0/P02-Box.runtimeconfig.json
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/bin/Debug/net6.0/P02-Box.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/bin/Debug/net6.0/P02-Box.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.csproj.AssemblyReference.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.GeneratedMSBuildEditorConfig.editorconfig
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.AssemblyInfoInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.AssemblyInfo.cs
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.csproj.CoreCompileInputs.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/refint/P02-Box.dll
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.pdb
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/P02-Box.genruntimeconfig.cache
+/Users/havsmollova/Desktop/Projects-IT-Kariera/M08-ITKariera/S01-Class/P02-Box/obj/Debug/net6.0/ref/P02-Box.dll
